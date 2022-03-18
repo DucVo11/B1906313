@@ -1,4 +1,4 @@
-# Hi there, Welcom !!! ✌️✌️✌️😊
+# Hi there, Welcome !!! ✌️✌️✌️😊
 
 ### Hi there 👋, my name is VO HUYNH DUC
 #### I am GitHub Readme Generator's creatr
