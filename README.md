@@ -1,4 +1,15 @@
-# Hi there ✌️✌️✌️😊
-I am **VO HUYNH DUC**
+# Hi there, Welcom !!! ✌️✌️✌️😊
 
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+### Hi there 👋, my name is VO HUYNH DUC
+#### I am GitHub Readme Generator's creatr
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
